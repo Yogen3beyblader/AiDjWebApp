@@ -1,0 +1,43 @@
+.heading {
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    color:yellowgreen;
+    background-color: aqua;
+    }
+   
+   .NOTE {
+   font-size:15px;
+   color:orange;
+   font-weight: 1000;
+   }
+   
+   body {
+   background-size: cover;
+   }
+   
+   .DaDiskGang,.DaDiskGang2 {
+    width: 200px;
+    border-radius:100px;
+   }
+   
+   #DaSpeed,#DaVolume {
+       font-size:23px;
+       margin:15px;
+   }
+   .MrGrinchIsHereToRuinChristmas{
+       float:left;
+   }
+   
+   .MrGrinchIsHereToRuinChristmas2{
+       float:right;
+   }
+   .playbutton {
+       width: 130px;
+       font-size: 25px;
+   }
+   
+   canvas {
+       border:5px solid cyan;
+       border-radius: 20px;
+   }
